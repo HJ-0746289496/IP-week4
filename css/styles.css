@@ -1,0 +1,15 @@
+body {
+    background-image: url(../image/Pizza.jpg)
+}
+h1{
+    font-size: 50px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.user{
+    text-align: center;
+    color: yellowgreen;
+    font-size: 30px;
+
+}
