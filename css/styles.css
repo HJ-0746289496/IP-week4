@@ -1,15 +1,33 @@
-body {
-    background-image: url(../image/Pizza.jpg)
-}
-h1{
-    font-size: 50px;
-    color: aliceblue;
-    text-align: center;
-}
-
 .user{
+    background-image: url(../image/Pizza.jpg);
+    height: 650px;
     text-align: center;
     color: yellowgreen;
     font-size: 30px;
+
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 100px;
+}
+.me{
+    background-image:url("../image/pexe.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 2000px; 
+}
+.me h1{
+    font-size: 50px;
+    color:lightblue;
+}
+img{
+    width:300px;
+    height:150px ;
+    border-radius: 15px;
+}
+#float{
+color:yellowgreen;
+font-size: 20px;
 
 }
