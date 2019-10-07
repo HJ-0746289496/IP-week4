@@ -41,4 +41,4 @@
  MIT.   
 
 ## LIVELINK.
-[LIVE LINK](https://hj-0746289496.github.io/IP-week4/)
+[LINK](https://hj-0746289496.github.io/IP-week4/)
