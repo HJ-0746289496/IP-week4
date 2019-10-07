@@ -30,7 +30,7 @@
 
  *Now,open the project with your favorite text editor.
 
- *Feel free to hack around the roject.
+ *Feel free to hack around the project.
 
  ## CONTACT.
 
