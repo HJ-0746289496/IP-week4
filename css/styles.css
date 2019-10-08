@@ -273,3 +273,11 @@
   text-align: center;
   font-size: 13px;
 }
+#menuCard{
+  background-size: cover;
+  width: 1530px;
+  height: 1200px;
+}
+#menuItem{
+  float: right;
+}
